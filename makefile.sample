@@ -45,6 +45,8 @@ SRCS+= fdevent.c
 SRCS+= adb_trace.c
 SRCS+= diagnose_usb.c
 SRCS+= logger_name.c
+SRCS+= bugreport.c
+SRCS+= sysdeps/win32/stat.c
 
 VPATH+= ../base
 SRCS+= file.c
