@@ -18,10 +18,10 @@ for 64-bit Windows.
 
 ```
 sudo apt-get install  mingw-w64 git make
-git clone https://github.com/qmfrederik/adb-win64/
+git clone https://github.com/kiddlu/adb-win64/
 cd adb-win64
 
-# Get the sources from Google
+# Get the sources from Google / your own server
 ./get-sources.sh
 
 # Build OpenSSL
