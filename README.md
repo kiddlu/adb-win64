@@ -22,6 +22,7 @@ git clone https://github.com/kiddlu/adb-win64/
 cd adb-win64
 
 # Get the sources from Google / your own server
+# please change repo and branch for your own
 ./get-sources.sh
 
 # Build OpenSSL

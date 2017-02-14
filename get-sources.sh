@@ -9,8 +9,10 @@ tar -xvzf openssl-1.0.2j.tar.gz
 # -------------------------
 
 # Branch to checkout from Android source code repo
-branch=google/android-7.1.1_r4
-repo=ssh://172.16.0.9:29418/qualcomm
+branch=android-7.1.1_r4
+repo=https://android.googlesource.com
+#branch=google/android-7.1.1_r4
+#repo=ssh://172.16.0.9:29418/qualcomm
 
 # DOWNLOAD necessary files
 # -------------------------
